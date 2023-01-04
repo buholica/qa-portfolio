@@ -1,0 +1,7 @@
+Checklist for email field:
+1. Test that the email field is in the correct format
+2. Test that the email address is in the correct format
+3. Enter an invalid email address in the email field
+4. Enter an email address with special characters in the email field
+5. Enter an email address with spaces in the email field.
+6. Leave the email field blank.
